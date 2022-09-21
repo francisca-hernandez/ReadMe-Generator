@@ -18,11 +18,7 @@ function renderLicenseSection(license) { }
 module.exports = function generateMarkdown(data) {
   return `# ${data.title}
 
-  //License info-n/a
-![License]()
-
-  # ${data.description}
-  
+ 
 ## Table of Contents
 1. [Description](#Description)
 1. [Usage](#Usage)
@@ -33,33 +29,46 @@ module.exports = function generateMarkdown(data) {
 1. [Questions](#Questions)
 
 
-  
-  # ${data.usage}
+#Decsription
 
-
-  # ${data.installation}
-
- 
-  # ${data.test}
-
- 
-  
-  # ${data.test}
+${data.description}
 
   
-  # ${data.contribution}
+##Usage
+
+  ${data.usage}
+
+#Installation
+Please use the following command to use project:
+   
+  ${data.installation}
+
+#Test 
+Please use the following command to test:
+  
+  ${data.test}
+
+##Contribution:
+  
+  ${data.contribution}
 
   
-  # ${data.license}
-
-
-  # ${data.username}
-
+##Licenses
   
-  # ${data.email}
+  ${data.license}
+
+
+##For any question you can reach me at
+  Github:
+   
+    ${data.username}
+
+  Email
+   
+    ${data.email}
 
 `;
 }
 
 
-module.exports = generateMarkdown;
+// module.exports = generateMarkdown;
