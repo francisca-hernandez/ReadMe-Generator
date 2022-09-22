@@ -1,8 +1,4 @@
 # ReadMe-Generator
-* AS A developer
-* I WANT a README generator
-* SO THAT I can quickly create a professional README for a new project
-
 
 * GIVEN a command-line application that accepts user input
 * WHEN I am prompted for information about my application repository
@@ -20,16 +16,16 @@
 * WHEN I click on the links in the Table of Contents
 * THEN I am taken to the corresponding section of the README
 
-##Built with 
-*JavaScript
-*Node.js
-*Node Package Manager
-*Node Modules
-*Npm Inquirer.js
+# Built with 
+* JavaScript
+* Node.js
+* Node Package Manager
+* Node Modules
+* Npm Inquirer.js
 
-Installation
-$ npm init
-$ npm install
+#Installation
+* $ npm init
+* $ npm install
 
 ##Screenshots/Video Link
 
