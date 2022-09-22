@@ -1,4 +1,4 @@
-# Kittens
+# Kitten Mittens
 
  
 ## Table of Contents
@@ -11,39 +11,39 @@
 1. [Questions](#Questions)
 
 
-#Decsription
-Kittens
+# Description
+
+An app that helps you find mittens for your kitten
 
   
-##Usage
-  meow
+## Usage
 
-#Installation
+  Clone starter code
+
+# Installation
 Please use the following command to use project:
    
   npm i
 
-#Test 
+# Test 
 Please use the following command to test:
   
   npm test
 
-##Contribution:
+## Contribution:
   
-  clone
+  
 
   
-##Licenses
+## Licenses
   
-  APACHE 2.0
+  MIT
 
 
-##For any question you can reach me at
+## For any question you can reach me at
   Github:
-   
-    meow
+    fh
 
   Email
-   
-    meow
+   fh
 

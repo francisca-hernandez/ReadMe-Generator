@@ -29,43 +29,39 @@ module.exports = function generateMarkdown(data) {
 1. [Questions](#Questions)
 
 
-#Decsription
-
+## Description
 ${data.description}
 
   
-##Usage
+## Usage
+${response.usage}
 
-  ${data.usage}
 
-#Installation
+## Installation
 Please use the following command to use project:
-   
-  ${data.installation}
+ 
+${data.installation}
 
-#Test 
+
+## Test 
 Please use the following command to test:
   
   ${data.test}
 
-##Contribution:
-  
+
+## Contribution:
+
   ${data.contribution}
 
   
-##Licenses
-  
+## Licenses
   ${data.license}
 
 
-##For any question you can reach me at
-  Github:
-   
-    ${data.username}
-
-  Email
-   
-    ${data.email}
+## Questions
+  For questions Contact me here: 
+  GitHub: [@${response.username}](https://github.com/${response.username})
+  Email: ${response.email}
 
 `;
 }
