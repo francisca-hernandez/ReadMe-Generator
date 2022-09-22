@@ -30,4 +30,6 @@
 ## Screenshots/Video Link
 [Demo](https://drive.google.com/file/d/1CQyrwlYR9qALGq9BDKWXh-GbMPIImsPB/view?usp=sharing)
 
+![ReadMe](./assets/Screenshot%202022-09-21%20235209.jpg)
+
 
