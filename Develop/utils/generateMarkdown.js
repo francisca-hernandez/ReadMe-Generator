@@ -1,7 +1,5 @@
 
 
-
-
 // TODO: Create a function that returns a license badge based on which license is passed in
 // If there is no license, return an empty string
 function renderLicenseBadge(license) { }
@@ -34,7 +32,7 @@ ${data.description}
 
   
 ## Usage
-${response.usage}
+${data.usage}
 
 
 ## Installation
@@ -60,8 +58,9 @@ Please use the following command to test:
 
 ## Questions
   For questions Contact me here: 
-  GitHub: [@${response.username}](https://github.com/${response.username})
-  Email: ${response.email}
+  GitHub: [@${data.username}](https://github.com/${data.username})
+  
+  Email: ${data.email}
 
 `;
 }

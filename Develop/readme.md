@@ -11,39 +11,38 @@
 1. [Questions](#Questions)
 
 
-# Description
-
-An app that helps you find mittens for your kitten
+## Description
+An app that finds mittens for your Kitten
 
   
 ## Usage
+download starter code
 
-  Clone starter code
 
-# Installation
+## Installation
 Please use the following command to use project:
-   
-  npm i
+ 
+npm i
 
-# Test 
+
+## Test 
 Please use the following command to test:
   
   npm test
 
+
 ## Contribution:
-  
-  
+
+  Download starter code to begin!
 
   
 ## Licenses
+  APACHE 2.0
+
+
+## Questions
+  For questions Contact me here: 
+  GitHub: [@Francica H](https://github.com/Francica H)
   
-  MIT
-
-
-## For any question you can reach me at
-  Github:
-    fh
-
-  Email
-   fh
+  Email: email@gmail.com
 
